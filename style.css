@@ -1,0 +1,15 @@
+.title{
+    color:blueviolet;>
+}
+
+#head1{
+    color:rgb(25, 185, 25);
+}
+
+.description{
+color:rgb(47, 0, 255);
+font-size:24px;
+}
+p.description{
+    color:rgb(52, 165, 42); /*eger h3.description yazarsak gider oradakileri degistirir.*/
+}
